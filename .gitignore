@@ -8,6 +8,9 @@
 # Java class files
 *.class
 
+# maps key
+keys.xml
+
 # generated files
 bin/
 gen/
