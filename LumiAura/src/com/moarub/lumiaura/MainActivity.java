@@ -21,7 +21,6 @@ import java.util.HashMap;
 import android.graphics.Color;
 import android.os.Bundle;
 import android.support.v4.app.FragmentActivity;
-import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.Toast;
@@ -163,9 +162,8 @@ public class MainActivity extends FragmentActivity {
 		outState.putParcelable(CAMERA_STATE, cps);
 	}
 
+
 	private void logCameraPosition(CameraPosition cps) {
-		Log.d("CameraPosition", "(" + cps.target.toString() + ") zoom:"
-				+ cps.zoom + " bearing: " + cps.bearing + " tilt: " + cps.tilt);
 	}
 
 	@Override

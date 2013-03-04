@@ -44,8 +44,6 @@ public class SinglePlowRequest extends SpringAndroidSpiceRequest<SnowPlow> {
 
 		String url = uriB.build().toString();
 		
-		Log.d("Fetching URL", url);
-
 		return getRestTemplate().getForObject(url, SnowPlow.class);
 	}
 

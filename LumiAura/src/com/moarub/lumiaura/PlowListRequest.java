@@ -16,7 +16,6 @@
 package com.moarub.lumiaura;
 
 import android.net.Uri;
-import android.util.Log;
 
 import com.moarub.lumiaura.model.SnowPlow;
 import com.octo.android.robospice.request.springandroid.SpringAndroidSpiceRequest;
@@ -47,8 +46,6 @@ public class PlowListRequest extends SpringAndroidSpiceRequest<SnowPlow[]> {
 
 		String url = uriB.build().toString();
 		
-		Log.d("Fetching URL", url);
-
 		return getRestTemplate().getForObject(url, SnowPlow[].class);
 	}
 
