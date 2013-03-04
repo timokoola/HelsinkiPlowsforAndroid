@@ -28,5 +28,6 @@
     <string name="capitalh">Center to Helsinki</string>
     <string name="request_failed">Problem connecting to server</string>
     <string name="number_of_plows">Plows on map:</string>
+    <string name="and_and">", and "</string>
 
 </resources>

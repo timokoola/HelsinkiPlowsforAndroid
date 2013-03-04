@@ -90,7 +90,7 @@ public class Location {
 	}
 	
 	private String getLocalizedAnd() {
-		return " ja ";
+		return ResourceGetter.getResourceString(R.string.and_and);
 	}
 	private String getLocalizedEvv(int i) {
 		String sel = events[i];
