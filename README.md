@@ -13,9 +13,10 @@ Maps
 - Google Play services Maps API, needed jar is included and app will build itself. For further tweaking see documentation at: 
 http://developer.android.com/google/play-services/maps.html
 - Maps require developer to register for a service key. I have placed mine in keys.xml with a key google_maps_key. That value is referenced in AndroidManifest.xml like this: 
-<meta-data
+<pre><meta-data
     android:name="com.google.android.maps.v2.API_KEY"
         android:value="@string/google_maps_key"/>
+</pre>
 - Register your own key at Google Play services console
 
 RoboSpice
