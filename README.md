@@ -6,6 +6,12 @@ Helsinki Snowplows on Android. This app is built upon Helsinki stara Open API th
 App is available free in Google Play at:
 https://play.google.com/store/apps/details?id=com.moarub.lumiaura
 
+Disclaimer about plow information
+=================================
+
+Tämä pilottiaineisto on Staran GPS-paikkatietoa talvihoidon töistä Helsingissä.  Pilotissa on mukana nyt 20 ajoneuvon tiedot.
+
+Material for this app has been made available by city of Helsinki service orgaization Stara. At the moment GPS-coordinates are available for 20 vehicles.
 
 Building
 ========
