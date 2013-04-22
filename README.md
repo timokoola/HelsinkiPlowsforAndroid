@@ -9,9 +9,9 @@ https://play.google.com/store/apps/details?id=com.moarub.lumiaura
 Disclaimer about plow information
 =================================
 
-Tämä pilottiaineisto on Staran GPS-paikkatietoa talvihoidon töistä Helsingissä.  Pilotissa on mukana nyt 20 ajoneuvon tiedot.
+Tämä pilottiaineisto on Staran GPS-paikkatietoa talvihoidon töistä Helsingissä.  Pilotissa on mukana nyt 90 ajoneuvon tiedot.
 
-Material for this app has been made available by city of Helsinki service orgaization Stara. At the moment GPS-coordinates are available for 20 vehicles.
+Material for this app has been made available by city of Helsinki service organisation Stara. At the moment GPS-coordinates are available for 90 vehicles.
 
 Building
 ========

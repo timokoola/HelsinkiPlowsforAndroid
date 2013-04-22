@@ -16,7 +16,7 @@
 -->
 <resources>
 
-    <string name="app_name">LumiAurat</string>
+    <string name="app_name">Koneet</string>
     <string name="action_settings">Settings</string>
     <string name="salt">salt</string>
     <string name="sand">sand</string>
